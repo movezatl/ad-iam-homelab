@@ -1,0 +1,8 @@
+.DS_Store
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.iso
+*.ova
+*.vhd
